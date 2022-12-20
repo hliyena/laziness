@@ -1,0 +1,15 @@
+D:\Git\Under\Homework\bin\Debug\net7.0\Homework.exe
+D:\Git\Under\Homework\bin\Debug\net7.0\Homework.deps.json
+D:\Git\Under\Homework\bin\Debug\net7.0\Homework.runtimeconfig.json
+D:\Git\Under\Homework\bin\Debug\net7.0\Homework.dll
+D:\Git\Under\Homework\bin\Debug\net7.0\Homework.pdb
+D:\Git\Under\Homework\obj\Debug\net7.0\Homework.csproj.AssemblyReference.cache
+D:\Git\Under\Homework\obj\Debug\net7.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Under\Homework\obj\Debug\net7.0\Homework.AssemblyInfoInputs.cache
+D:\Git\Under\Homework\obj\Debug\net7.0\Homework.AssemblyInfo.cs
+D:\Git\Under\Homework\obj\Debug\net7.0\Homework.csproj.CoreCompileInputs.cache
+D:\Git\Under\Homework\obj\Debug\net7.0\Homework.dll
+D:\Git\Under\Homework\obj\Debug\net7.0\refint\Homework.dll
+D:\Git\Under\Homework\obj\Debug\net7.0\Homework.pdb
+D:\Git\Under\Homework\obj\Debug\net7.0\Homework.genruntimeconfig.cache
+D:\Git\Under\Homework\obj\Debug\net7.0\ref\Homework.dll
